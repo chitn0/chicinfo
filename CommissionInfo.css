@@ -1,6 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
+a {
+	color: #bf9000;
+}
+a:hover {
+	color: #CEA000;
+}
+
 /** Media Query Adjustments **/
 /** Extra small devices (portrait phones, less than 576px) **/
 @media (max-width: 575.98px) {
@@ -27,7 +34,7 @@
 		background-color: #222;
 		color: #ffffffe0;
 		font-family: calibri, sans-serif;
-		font-size: 1.1em;
+		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0 0.3em 0 0.3em;;
 	}
@@ -155,7 +162,6 @@
 	}
 			.pricesinfo {
 				margin-bottom: 1em;
-				line-height: 1.25em;
 			}
 			.pricesinfo p {
 				font-family: calibri, sans-serif;
@@ -183,7 +189,6 @@
 			}
 			.breakdown {
 				display: inline-block;
-				line-height: 1.5em!important;
 			}
 			.details {
 			}
@@ -220,7 +225,10 @@
 				background-color: rgba(0,0,0,.7);
 			}
 			.carousel-inner {
-				height: 20em!important;
+				height: 24em;
+			}
+			.illustc {
+				height: 30em!important;
 			}
 			.carousel-indicators {
 				bottom: 1px!important;
@@ -252,7 +260,7 @@
 		margin: 0!important;
 	}
 			.pricetext {
-				text-align: left;
+				padding-left: 0.5em;
 			}
 			.pricetext h2 {
 				display: block;
@@ -266,11 +274,8 @@
 			}
 			.pricetext .left {
 				font-family: 'Playfair Display', serif;
-				text-align: left;
-				padding-right: 1em!important;
 			}
 			.pricetext .right {
-				text-align: right;
 				font-family: 'Nunito Sans', sans-serif;
 				padding-right: 1em!important;
 				font-weight: 600;
@@ -497,7 +502,7 @@
 		background-color: #222;
 		color: #ffffffe0;
 		font-family: calibri, sans-serif;
-		font-size: 1em;
+		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0 0.3em 0 0.3em;;
 	}
@@ -633,7 +638,6 @@
 	}
 			.pricesinfo {
 				margin-bottom: 1em;
-				line-height: 1.25em;
 			}
 			.pricesinfo p {
 				font-family: calibri, sans-serif;
@@ -656,14 +660,12 @@
 				margin-left: -1em;
 			}
 			.workflow {
-				font-size: 0.9em!important;
 			}
 			.breakdown {
 				display: inline-block;
-				line-height: 1.5em!important;
 			}
 			.details {
-				margin-left: -2.5em;
+				margin-left: -1.5em;
 			}
 			.hours {
 				margin-left: -2.4em;
@@ -684,7 +686,7 @@
 		margin: 0!important;
 	}
 			.pricetext {
-				text-align: left;
+				padding-left: 0.5em!important;
 			}
 			.pricetext h2 {
 				display: block;
@@ -699,11 +701,8 @@
 			}
 			.pricetext .left {
 				font-family: 'Playfair Display', serif;
-				text-align: left;
-				padding-right: 1em!important;
 			}
 			.pricetext .right {
-				text-align: right;
 				font-family: 'Nunito Sans', sans-serif;
 				padding-right: 1em!important;
 				font-weight: 600;
@@ -912,7 +911,7 @@
 		background-color: #222;
 		color: #ffffffe0;
 		font-family: calibri, sans-serif;
-		font-size: 1.1em;
+		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0 1em 0 1em;
 	}
@@ -1046,7 +1045,6 @@
 	}
 			.pricesinfo {
 				margin-bottom: 2em;
-				line-height: 1.25em;
 			}
 			.pricesinfo p {
 				font-family: calibri, sans-serif;
@@ -1091,12 +1089,12 @@
 		margin-bottom: 0em;
 	}
 			.pricetext {
-				text-align: right;
+				padding-left: 0.5em!important;
 			}
 			.pricetext h2 {
 				display: block;
 				font-size: 1.5em;
-				margin-left: 1em;
+				margin-right: 1em;
 			}
 			.pricetext ul {
 				display: inline-block;
@@ -1107,11 +1105,8 @@
 			}
 			.pricetext .left {
 				font-family: 'Playfair Display', serif;
-				text-align: left;
-				padding-right: 1em!important;
 			}
 			.pricetext .right {
-				text-align: right;
 				font-family: 'Nunito Sans', sans-serif;
 				padding-right: 1em!important;
 				font-weight: 600;
@@ -1121,7 +1116,7 @@
 				background-color: #efefef;
 				text-align: left;
 				padding-left: 1em;
-				margin-left: 1em;
+				margin-right: 2em;
 			}
 			.figure-img {
 				margin-bottom: 0!important;
@@ -1134,7 +1129,7 @@
 	.sheets {
 		text-align: left!important;
 		margin-left: -15px!important;
-		padding-right: 30em;
+		padding-right: 25em;
 	}
 			.pricetext2 h2 {
 				padding-left: 4em;

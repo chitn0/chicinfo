@@ -25,7 +25,7 @@ a:hover {
 	}
 	h3 {
 		font-family: 'Playfair Display', serif;
-		font-size: 1em;
+		font-size: 1.3em;
 		display: block;
 		margin: 0 0 0.8em 0;
 	}
@@ -233,7 +233,7 @@ a:hover {
 				bottom: 1px!important;
 			}
 			.carousel-caption {
-				font-size: 0.9em;
+				font-size: 0.6em;
 				padding: 0.5em;
 				background-color: rgba(0,0,0,0.5);
 				height: 3.5em;

@@ -35,7 +35,7 @@ a:hover {
 		color: #ffffffe0;
 		font-family: Calibri, Arial, sans-serif;
 		font-size: 1.1em;
-		font-weight: bold;
+		font-weight: 600;
 		padding: 0 0.3em 0 0.3em;;
 	}
 	p {
@@ -152,7 +152,6 @@ a:hover {
 			}
 			.subjectmatter li {
 				list-style: none;
-				line-height: 1.3em;
 				margin-bottom: 0.5em;
 				margin-left: -40px;
 			}
@@ -304,7 +303,7 @@ a:hover {
 				display: block;
 				font-size: 1.5em;
 			}
-			.pricetext2 h3 {
+			.pricetext2 h6 {
 				display: inline-block!important;
 			}
 			.pricetext2 .left {
@@ -314,6 +313,7 @@ a:hover {
 			.pricetext2 .right {
 				font-family: 'Nunito Sans', sans-serif;
 				font-weight: 600;
+				padding-left: 1em!important;
 			}
 			.pricetext2 p {
 				font-family: Calibri, Arial, sans-serif;

@@ -224,22 +224,26 @@ a:hover {
 				background-color: rgba(0,0,0,.7);
 			}
 			.carousel-inner {
-				height: 19em;
+				height: 24em;
 			}
 			.illustc {
-				height: 25em!important;
+				height: 30em!important;
 			}
 			.carousel-indicators {
 				bottom: 1px!important;
 			}
 			.carousel-caption {
-				font-size: 0.9em!important;
-				padding: 0.5em!important;
+				font-size: 0.9em;
+				padding: 0.5em;
 				background-color: rgba(0,0,0,0.5);
-				height: 6em!important;
-				left: 35%!important;
-				right: 35%!important;
-				top: 25%!important;
+				height: 3.5em;
+				left: 35%;
+				right: 35%;
+				top: 35%;
+			}
+			.illustc .carousel-caption {
+				padding: 0.5em!important;
+				height: 4.5em!important;
 			}
 	#carousel-example-1 .carousel-indicators li {
 		background-color: rgba(0,0,0,0.3);
@@ -256,7 +260,6 @@ a:hover {
 	/** Carousel End **/
 	
 	.priceimg {
-		margin: 0!important;
 	}
 			.pricetext ul {
 				padding: 0!important;
@@ -277,6 +280,7 @@ a:hover {
 			.pricetext .right {
 				font-family: 'Nunito Sans', sans-serif;
 				font-weight: 600;
+				padding-left: 1em!important;
 			}
 			.notes {
 				color: #333;

@@ -225,10 +225,10 @@ a:hover {
 				background-color: rgba(0,0,0,.7);
 			}
 			.carousel-inner {
-				height: 32em;
+				height: 28em;
 			}
 			.illustc {
-				height: 22em!important;
+				height: 30em!important;
 			}
 			.carousel-indicators {
 				bottom: 1px!important;

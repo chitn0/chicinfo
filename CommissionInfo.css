@@ -33,7 +33,7 @@ a:hover {
 		display: inline-block;
 		background-color: #222;
 		color: #ffffffe0;
-		font-family: calibri, sans-serif;
+		font-family: Calibri, Arial, sans-serif;
 		font-size: 1.1em;
 		font-weight: bold;
 		padding: 0 0.3em 0 0.3em;;
@@ -119,11 +119,11 @@ a:hover {
 			.process li {
 				list-style: none;
 				margin-left: 1em;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 			}
 			.process li:before {
 				content: "↓";
-				font-family: calibri!important;
+				font-family: Calibri, Arial, sans-serif!important;
 				padding-right: 0.75em;
 				margin-left: -1.65em;
 			}
@@ -148,7 +148,7 @@ a:hover {
 			.subjectmatter p {
 				font-size: 1em!important;
 				color: #212529!important;
-				font-family: calibri, sans-serif!important;
+				font-family: Calibri, Arial, sans-serif!important;
 			}
 			.subjectmatter li {
 				list-style: none;
@@ -163,13 +163,13 @@ a:hover {
 				margin-bottom: 1em;
 			}
 			.pricesinfo p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1em;
 				color: #212529!important;
 			}
 			.pricesinfo li {
 				list-style: none;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1em!important;
 			}
 			.surcharge {
@@ -316,7 +316,7 @@ a:hover {
 				font-weight: 600;
 			}
 			.pricetext2 p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 0.9em!important;
 				color: #333;
 				background-color: #efefef;
@@ -361,13 +361,13 @@ a:hover {
 			}
 			.refunds li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
 				content:"⬦";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
 				margin-left: -1.9em;
@@ -384,7 +384,7 @@ a:hover {
 			}
 			.copyright li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}
@@ -502,7 +502,7 @@ a:hover {
 		display: inline-block;
 		background-color: #222;
 		color: #ffffffe0;
-		font-family: calibri, sans-serif;
+		font-family: Calibri, Arial, sans-serif;
 		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0 0.3em 0 0.3em;;
@@ -589,11 +589,11 @@ a:hover {
 			.process li {
 				list-style: none;
 				margin-left: 1em;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 			}
 			.process li:before {
 				content: "↓";
-				font-family: calibri!important;
+				font-family: Calibri, Arial, sans-serif!important;
 				padding-right: 0.75em;
 				margin-left: -1.65em;
 			}
@@ -621,7 +621,7 @@ a:hover {
 			.subjectmatter p {
 				font-size: 1em!important;
 				color: #212529!important;
-				font-family: calibri, sans-serif!important;
+				font-family: Calibri, Arial, sans-serif!important;
 			}
 			.subjectmatter li {
 				list-style: none;
@@ -636,13 +636,13 @@ a:hover {
 				margin-bottom: 1em;
 			}
 			.pricesinfo p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial,  sans-serif;
 				font-size: 1em;
 				color: #212529!important;
 			}
 			.pricesinfo li {
 				list-style: none;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1em!important;
 			}
 			.surcharge {
@@ -735,7 +735,7 @@ a:hover {
 				font-weight: 600;
 			}
 			.pricetext2 p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 0.9em!important;
 				color: #333;
 				background-color: #efefef;
@@ -763,13 +763,13 @@ a:hover {
 			}
 			.refunds li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
 				content:"⬦";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
 				margin-left: -1.9em;
@@ -786,7 +786,7 @@ a:hover {
 			}
 			.copyright li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}
@@ -903,7 +903,7 @@ a:hover {
 		display: inline-block;
 		background-color: #222;
 		color: #ffffffe0;
-		font-family: calibri, sans-serif;
+		font-family: Calibri, Arial, sans-serif;
 		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0 1em 0 1em;
@@ -988,11 +988,11 @@ a:hover {
 			.process li {
 				list-style: none;
 				margin-left: 1em;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 			}
 			.process li:before {
 				content: "↓";
-				font-family: calibri!important;
+				font-family: Calibri, Arial, sans-serif!important;
 				padding-right: 0.75em;
 				margin-left: -1.65em;
 			}
@@ -1020,7 +1020,7 @@ a:hover {
 			.subjectmatter p {
 				font-size: 1em!important;
 				color: #212529!important;
-				font-family: calibri, sans-serif!important;
+				font-family: Calibri, Arial, sans-serif!important;
 			}
 			.subjectmatter li {
 				list-style: none;
@@ -1034,13 +1034,13 @@ a:hover {
 			.pricesinfo {
 			}
 			.pricesinfo p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1em;
 				color: #212529!important;
 			}
 			.pricesinfo li {
 				list-style: none;
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1em!important;
 			}
 			.surcharge {
@@ -1128,7 +1128,7 @@ a:hover {
 				font-weight: 600;
 			}
 			.pricetext2 p {
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 0.9em!important;
 				color: #333;
 				background-color: #efefef;
@@ -1155,13 +1155,13 @@ a:hover {
 			}
 			.refunds li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
 				content:"⬦";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
 				margin-left: -1.9em;
@@ -1174,7 +1174,7 @@ a:hover {
 			}
 			.copyright li:before {
 				content: "→";
-				font-family: calibri, sans-serif;
+				font-family: Calibri, Arial, sans-serif;
 				padding-right: 1em;
 				margin-left: -1.9em;
 			}

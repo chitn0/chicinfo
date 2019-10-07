@@ -224,10 +224,10 @@ a:hover {
 				background-color: rgba(0,0,0,.7);
 			}
 			.carousel-inner {
-				height: 28em;
+				height: 19em;
 			}
 			.illustc {
-				height: 30em!important;
+				height: 25em!important;
 			}
 			.carousel-indicators {
 				bottom: 1px!important;
@@ -236,7 +236,7 @@ a:hover {
 				font-size: 0.9em!important;
 				padding: 0.5em!important;
 				background-color: rgba(0,0,0,0.5);
-				height: 4.5em!important;
+				height: 6em!important;
 				left: 35%!important;
 				right: 35%!important;
 				top: 25%!important;
@@ -258,8 +258,8 @@ a:hover {
 	.priceimg {
 		margin: 0!important;
 	}
-			.pricetext {
-				padding-left: 0.5em;
+			.pricetext ul {
+				padding: 0!important;
 			}
 			.pricetext h2 {
 				display: block;
@@ -305,9 +305,9 @@ a:hover {
 			}
 			.pricetext2 .left {
 				font-family: 'Playfair Display', serif;
+				margin-bottom: 0!important;
 			}
 			.pricetext2 .right {
-				padding-left: 1.5em;
 				font-family: 'Nunito Sans', sans-serif;
 				font-weight: 600;
 			}
@@ -675,10 +675,8 @@ a:hover {
 				padding-left: 0!important;
 			}
 	.priceimg {
-		margin: 0!important;
 	}
 			.pricetext {
-				padding-left: 0.5em!important;
 				margin-top: 1em;
 			}
 			.pricetext h2 {
@@ -1074,7 +1072,6 @@ a:hover {
 		margin-bottom: 0em;
 	}
 			.pricetext {
-				padding-left: 0.5em!important;
 			}
 			.pricetext h2 {
 				display: block;

@@ -225,10 +225,10 @@ a:hover {
 				background-color: rgba(0,0,0,.7);
 			}
 			.carousel-inner {
-				height: 24em;
+				height: 32em;
 			}
 			.illustc {
-				height: 30em!important;
+				height: 35em!important;
 			}
 			.carousel-indicators {
 				bottom: 1px!important;
@@ -626,11 +626,6 @@ a:hover {
 				line-height: 1.3em;
 				margin-bottom: 0.5em;
 			}
-			.subjectmatter li:before {
-				content: "❖";
-				padding-right: 1em;
-				margin-left: -1.8em;
-			}
 	.prices {
 		margin-bottom: 0;
 	}
@@ -685,6 +680,7 @@ a:hover {
 	}
 			.pricetext {
 				padding-left: 0.5em!important;
+				margin-top: 1em;
 			}
 			.pricetext h2 {
 				display: block;
@@ -720,7 +716,7 @@ a:hover {
 			}
 	.sheets {
 		text-align: left!important;
-		margin-top: 2em;
+		margin-top: 1em;
 	}
 			.pricetext2 h2 {
 				display: block;
@@ -1031,16 +1027,10 @@ a:hover {
 				line-height: 1.3em;
 				margin-bottom: 0.5em;
 			}
-			.subjectmatter li:before {
-				content: "❖";
-				padding-right: 1em;
-				margin-left: -1.8em;
-			}
 	.prices {
 		margin-bottom: 0;
 	}
 			.pricesinfo {
-				margin-bottom: 2em;
 			}
 			.pricesinfo p {
 				font-family: calibri, sans-serif;
@@ -1090,7 +1080,6 @@ a:hover {
 			.pricetext h2 {
 				display: block;
 				font-size: 1.5em;
-				margin-right: 1em;
 			}
 			.pricetext ul {
 				display: inline-block;
@@ -1123,11 +1112,8 @@ a:hover {
 			}
 	.sheets {
 		text-align: left!important;
-		margin-left: -15px!important;
-		padding-right: 25em;
 	}
 			.pricetext2 h2 {
-				padding-left: 4em;
 				display: block;
 				font-size: 1.5em;
 			}
@@ -1135,18 +1121,15 @@ a:hover {
 				display: inline-block!important;
 			}
 			.pricetext2 .left {
-				padding-left: 6em;
 				font-family: 'Playfair Display', serif;
 			}
 			.pricetext2 .right {
-				padding-left: 1.5em;
 				font-family: 'Nunito Sans', sans-serif;
 				font-weight: 600;
 			}
 			.pricetext2 p {
 				font-family: calibri, sans-serif;
 				font-size: 0.9em!important;
-				padding-left: 6.7em;
 				color: #333;
 				background-color: #efefef;
 			}

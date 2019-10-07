@@ -366,7 +366,7 @@ a:hover {
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
-				content:"⬦";
+				content:"◇";
 				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
@@ -768,7 +768,7 @@ a:hover {
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
-				content:"⬦";
+				content:"◇";
 				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
@@ -1160,7 +1160,7 @@ a:hover {
 				margin-left: -1.9em;
 			}
 			.refunds li ol:before {
-				content:"⬦";
+				content:"◇";
 				font-family: Calibri, Arial, sans-serif;
 				font-size: 1.1em;
 				padding-right: 1em;
